@@ -27,8 +27,8 @@ img {
 }
 
  img {
-  width: 80%;
-  height: auto;
+  width: 100%;
+  height: auto; align:center;
 }
 
 div.desc {
