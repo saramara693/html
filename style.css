@@ -2,10 +2,9 @@
 <head>
 <style>
 <body>
-body {
-  text-align: center;
-	}
-	
+body 
+{ text-align: center;}
+
 style {
   color: blue;
   font-family: verdana;
@@ -28,8 +27,8 @@ img {
 }
 
  img {
-  width: 300;
-  height: 150;
+  width: 80%;
+  height: auto;
 }
 
 div.desc {
